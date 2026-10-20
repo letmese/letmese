@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm letmese 👋
+# Hi there, I'm letmese 
 
 ### **Full-Stack & Mobile App Developer | Android & Windows Software Engineer**
 📍 *Lahore, Pakistan • Available Worldwide*
