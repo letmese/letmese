@@ -11,7 +11,7 @@
 
 <br/>
 
-> *Specializing in high-performance native Android applications, offline-first media processing engines, and fast, resilient Windows desktop utilities.*
+> *Specializing in high-performance native Android applications, electronic counter-surveillance tools, offline-first media processing engines, and fast, resilient Windows desktop utilities.*
 
 </div>
 
@@ -19,9 +19,9 @@
 
 ### 🚀 About Me
 
-- 📱 **Mobile Engineering:** Building native Android applications with **Kotlin**, **Jetpack Compose**, **MediaCodec**, and **OpenGL ES** (offline-first, zero-cloud dependency).
+- 📱 **Mobile Engineering:** Building native Android applications with **Kotlin**, **Jetpack Compose**, **MediaCodec**, **OpenGL ES**, and **Hardware Sensor APIs** (offline-first, zero-cloud dependency).
 - 💻 **Desktop Engineering:** Developing modern Windows tools in **C# / .NET 8 (WPF / WinForms)** and **Python**, with a focus on real-time networking and system utilities.
-- ⚡ **Core Focus:** Network diagnostics, local device discovery, video editing pipelines, and productivity automation.
+- ⚡ **Core Focus:** Network diagnostics, hardware telemetry, electronic counter-surveillance (TSCM), video editing pipelines, and productivity automation.
 - 💬 **Let's Talk:** Open for freelance projects, custom software development, and technical collaborations worldwide.
 
 ---
@@ -32,7 +32,7 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Android & Mobile** | Kotlin • Jetpack Compose • MediaCodec • Media3/ExoPlayer • OpenGL ES • Room DB • Coroutines • Material 3 |
+| **Android & Mobile** | Kotlin • Jetpack Compose • MediaCodec • Media3/ExoPlayer • OpenGL ES • Camera2 API • Bluetooth LE • FFT Audio |
 | **Windows & Desktop** | C# • .NET 8 (WPF / WinForms) • Python • Win32 APIs • Async Socket Architecture • Multi-threading |
 | **Networking & Systems** | Packet Inspection • ARP/ICMP Scanning • Port Diagnostics • Traffic Monitoring • Real-Time Sockets |
 | **Tools & Tooling** | Git • GitHub • Gradle • Visual Studio • Android Studio • PyInstaller |
@@ -47,6 +47,21 @@
 > A professional, 100% on-device Android video editor with multi-track timeline, hardware-accelerated OpenGL filters, custom speed curves, and teleprompter. Zero network tracking, fully private.
 > 
 > `Kotlin` • `Jetpack Compose` • `MediaCodec` • `OpenGL ES`
+
+#### 🛡️ **[TrackerBuster](https://github.com/letmese/TrackerBuster)** — *Counter-Surveillance & Bug Detector*
+> All-in-one privacy protection suite for Android: detects unwanted Bluetooth AirTags/trackers (RF Sentinel), finds optical pinhole camera reflections (CamGuard), and analyzes ultrasonic/acoustic bug frequencies (Sonic Spy).
+> 
+> `Kotlin` • `Bluetooth LE` • `Camera2 API` • `FFT Audio Spectrogram`
+
+#### 📶 **[NetSpeedMonitor](https://github.com/letmese/NetSpeedMonitor)** — *Accurate Real-Time Network Speed Overlay*
+> Precision floating network speed meter for Android. Features intelligent interface deduplication that filters out VPN double-counting to deliver pinpoint hardware accuracy.
+> 
+> `Kotlin` • `Overlay Window API` • `Hardware Socket Filters`
+
+#### 📰 **[NewsFlow](https://github.com/letmese/NewsFlow)** — *Glassmorphic News Aggregator*
+> Fast Android RSS news reader featuring modern transparent glassmorphic launcher widgets, offline caching, and bilingual English & Nastaliq Urdu typography.
+> 
+> `Kotlin` • `Jetpack Compose` • `RSS Engine` • `Glassmorphism Widgets`
 
 #### 🛡️ **[WhoIsOnMyWiFi Reborn](https://github.com/letmese/WhoIsOnMyWiFi_Reborn)** — *Windows Network Security & Device Scanner*
 > Real-time local network intrusion detection utility for Windows. Scans subnets, identifies connected devices, monitors latency, and alerts when unknown devices join your network.
