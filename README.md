@@ -20,7 +20,7 @@
 ### 🚀 About Me
 
 - 📱 **Mobile Engineering:** Building native Android applications with **Kotlin**, **Jetpack Compose**, **MediaCodec**, and **OpenGL ES** (offline-first, zero-cloud dependency).
-- 💻 **Desktop Engineering:** Developing modern Windows tools in **C# / .NET (WPF)** and **Python**, with a focus on real-time networking and system utilities.
+- 💻 **Desktop Engineering:** Developing modern Windows tools in **C# / .NET 8 (WPF / WinForms)** and **Python**, with a focus on real-time networking and system utilities.
 - ⚡ **Core Focus:** Network diagnostics, local device discovery, video editing pipelines, and productivity automation.
 - 💬 **Let's Talk:** Open for freelance projects, custom software development, and technical collaborations worldwide.
 
@@ -33,15 +33,15 @@
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Android & Mobile** | Kotlin • Jetpack Compose • MediaCodec • Media3/ExoPlayer • OpenGL ES • Room DB • Coroutines • Material 3 |
-| **Windows & Desktop** | C# • .NET Core / WPF • Python • Win32 APIs • Async Socket Architecture • Multi-threading |
+| **Windows & Desktop** | C# • .NET 8 (WPF / WinForms) • Python • Win32 APIs • Async Socket Architecture • Multi-threading |
 | **Networking & Systems** | Packet Inspection • ARP/ICMP Scanning • Port Diagnostics • Traffic Monitoring • Real-Time Sockets |
-| **Tools & Tooling** | Git • GitHub • Gradle • Visual Studio • Android Studio • FFmpeg |
+| **Tools & Tooling** | Git • GitHub • Gradle • Visual Studio • Android Studio • PyInstaller |
 
 </div>
 
 ---
 
-### 📱 Featured Applications
+### 📱 Live Featured Projects
 
 #### 🎬 **[ClipCut](https://github.com/letmese/ClipCut)** — *Offline Video Editor for Android*
 > A professional, 100% on-device Android video editor with multi-track timeline, hardware-accelerated OpenGL filters, custom speed curves, and teleprompter. Zero network tracking, fully private.
@@ -51,34 +51,32 @@
 #### 🛡️ **[WhoIsOnMyWiFi Reborn](https://github.com/letmese/WhoIsOnMyWiFi_Reborn)** — *Windows Network Security & Device Scanner*
 > Real-time local network intrusion detection utility for Windows. Scans subnets, identifies connected devices, monitors latency, and alerts when unknown devices join your network.
 > 
-> `C#` • `.NET / WPF` • `Raw Sockets` • `Win32 Networking`
+> `C#` • `.NET 8` • `Raw Sockets` • `Win32 Networking` • `Windows Firewall`
 
 #### 📊 **[SpeedMeterPro](https://github.com/letmese/SpeedMeterPro)** — *Desktop Bandwidth & Network Monitor*
 > Lightweight, precision network throughput monitor for Windows with live tray meters, floating widgets, and interface usage analytics.
 > 
-> `C#` • `.NET` • `Performance Counters`
+> `C#` • `.NET` • `Performance Counters` • `WinForms`
+
+#### ⚡ **[IDM Clone](https://github.com/letmese/IDMClone)** — *Multi-Threaded Download Manager*
+> High-speed concurrent internet download accelerator with multi-segment downloading, dynamic bandwidth optimization, and queue management.
+> 
+> `Python 3.11` • `PySide6 (Qt6)` • `AsyncIO` • `HTTP Multi-Threading`
+
+#### ✂️ **[StatusSplitter](https://github.com/letmese/StatusSplitter)** — *Lossless Social Video Splitter*
+> Seamlessly splits long videos into precise 30-second clips for WhatsApp Status, Instagram Stories, and TikTok without re-encoding quality loss.
+> 
+> `Kotlin` • `Android SDK 35` • `Lossless GOP Sync Remux`
+
+#### 📡 **[RouterOps](https://github.com/letmese/RouterOps)** — *Network Gateway Dashboard & Telemetry Scraper*
+> Real-time gateway control room and session scraper with automated SID cookie keepalive, SQLite rolling telemetry history, and responsive web interface.
+> 
+> `Python` • `FastAPI` • `SQLite` • `RESTful API`
 
 #### 🔍 **[NetScanner](https://github.com/letmese/net-scanner)** — *High-Speed Mobile Network Diagnostic Suite*
 > Feature-packed Android network utility for active device discovery, port scanning, gateway ping diagnostics, and Wi-Fi health inspection.
 > 
 > `Kotlin` • `Android SDK` • `Network Diagnostics`
-
-#### ⚡ **[IDM Clone (REA_IDM)](https://github.com/letmese/IDMClone)** — *Multi-Threaded Download Manager*
-> High-speed concurrent internet download accelerator with multi-segment downloading, dynamic bandwidth optimization, and queue management.
-> 
-> `Python` • `AsyncIO` • `HTTP Multi-Threading`
-
-#### 📰 **[NewsFlow](https://github.com/letmese/NewsFlow)** — *Glassmorphic News Aggregator*
-> Fast RSS news feed reader featuring modern glassmorphism home screen widgets, offline caching, and responsive typography.
-
-#### 🌐 **[NotifTranslate](https://github.com/letmese/NotifTranslate)** — *Real-Time Notification Translator*
-> On-device translation utility using Google ML Kit to translate incoming app notifications in real-time without sending private data to cloud servers.
-
-#### 📡 **[TowerScope](https://github.com/letmese/TowerScope)** — *Cellular Signal & Tower Diagnostics*
-> Real-time mobile cell tower tracker, signal strength mapper (dBm/RSRP), and mobile network diagnostic tool.
-
-#### ✂️ **[StatusSplitter](https://github.com/letmese/StatusSplitter)** — *Lossless Social Video Splitter*
-> Seamlessly splits long videos into precise 30-second clips for WhatsApp Status, Instagram Stories, and TikTok without re-encoding quality loss.
 
 ---
 
