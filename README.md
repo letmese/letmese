@@ -5,6 +5,7 @@
 ### **Full-Stack & Mobile App Developer | Android & Windows Software Engineer**
 📍 *Lahore, Pakistan • Available Worldwide*
 
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-letmese--portfolio.web.app-0066FF?style=for-the-badge&logo=google-cloud&logoColor=white)](https://letmese-portfolio.web.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923171616345?text=Hi%20letmese%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-letmese-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/letmese)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -99,8 +100,9 @@
 
 Whether you need a custom native mobile app, a specialized Windows utility, or have a project to discuss, feel free to reach out directly:
 
+- 🌐 **Live Portfolio:** [**letmese-portfolio.web.app**](https://letmese-portfolio.web.app)
 - 💬 **WhatsApp:** [**+92 317 1616345**](https://wa.me/923171616345?text=Hi%20letmese%2C%20I%27d%20like%20to%20discuss%20a%20project.)
-- 🌐 **Location:** Lahore, Pakistan (Available for remote contracts worldwide)
+- 📍 **Location:** Lahore, Pakistan (Available for remote contracts worldwide)
 - 🐙 **GitHub:** [@letmese](https://github.com/letmese)
 
 <br/>
