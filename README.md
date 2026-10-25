@@ -44,6 +44,11 @@
 
 ### 📱 Live Featured Projects
 
+#### 🛠️ **[Used Laptop Inspector](https://github.com/letmese/used-laptop-inspector)** — *Offline Hardware Diagnostics & Counter-Offer Tool*
+> One scan on a used laptop before you buy it: seven hardware checks, a score out of 100, and a counter-offer built from what the machine is worth — not from what the seller asks. Runs entirely offline, and also from a bootable WinPE image so the laptop's own Windows cannot lie about its hardware.
+> 
+> `Python` • `PySide6` • `Win32 / WMI` • `SMART` • `D3D11`
+
 #### 🎬 **[ClipCut](https://github.com/letmese/ClipCut)** — *Offline Video Editor for Android*
 > A professional, 100% on-device Android video editor with multi-track timeline, hardware-accelerated OpenGL filters, custom speed curves, and teleprompter. Zero network tracking, fully private.
 > 
